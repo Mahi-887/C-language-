@@ -1,1 +1,3 @@
-# C-language-
+Mahendra
+
+this is my first git repositry
